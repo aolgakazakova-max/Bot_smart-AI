@@ -4,6 +4,7 @@ from aiogram.types import Message, CallbackQuery
 from keyboards.inline import main_menu
 from handlers.random_fact import send_random_fact
 
+
 router = Router()
 
 
